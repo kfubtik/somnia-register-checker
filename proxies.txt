@@ -1,0 +1,7 @@
+# One proxy per line.
+# Leave only comments or make this file empty if you do not use proxies.
+#
+# Supported examples:
+# http://user:pass@host:port
+# user:pass@host:port
+# host:port

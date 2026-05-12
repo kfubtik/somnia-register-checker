@@ -1,0 +1,4 @@
+somnia_register_results*.txt
+__pycache__/
+*.py[cod]
+.env
