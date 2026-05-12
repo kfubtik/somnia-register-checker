@@ -122,7 +122,7 @@ address - eligible/not eligible - allocation: amount
 Пример:
 
 ```txt
-0xBf9332F6cE255ABe31Ae5439334124A28F883BCc - not eligible - allocation: 0
+0x2222222222222222222222222222222222222222 - not eligible - allocation: 0
 0x1111111111111111111111111111111111111111 - eligible - allocation: 100
 ```
 
